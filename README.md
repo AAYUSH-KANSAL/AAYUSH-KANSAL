@@ -1,3 +1,4 @@
+<img src="./assets/github-banner.png" width="100%" />
 # Hi there, I'm Ayush Kansal! 👋
 <p align="left">
   <a href="https://git.io/typing-svg">
