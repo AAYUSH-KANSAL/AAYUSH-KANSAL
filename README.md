@@ -2,7 +2,7 @@
   <img src="asset/github-video.gif" width="100%" alt="Aayush GitHub profile animation" />
 </div>
 
-<h1 align="center">Hi, I'm Aayush 👋</h1>
+<h1 align="center">Hi, I'm Aayush Kansal👋</h1>
 
 <p align="center">
   <b>AI Engineer • Backend & Systems Developer</b>
@@ -79,18 +79,14 @@ PyRaft focuses on the core ideas behind distributed systems: **leader election, 
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AAYUSH-KANSAL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=AAYUSH-KANSAL&theme=tokyonight&hide_border=true" height="165" />
+  <img 
+    src="https://streak-stats.demolab.com?user=AAYUSH-KANSAL&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAYUSH-KANSAL&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
