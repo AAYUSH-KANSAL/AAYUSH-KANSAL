@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="asset/github-video.gif" width="100%" alt="GitHub profile animation" />
+</div>
+
 # Hi, I'm Aayush 👋
 
 ### AI Engineer • Full-Stack Developer • Product Builder
