@@ -1,4 +1,6 @@
-<img src="asset/github-banner.png" width="100%" />
+<video width="100%" controls autoplay muted loop playsinline>
+  <source src="asset/github%20video.mp4" type="video/mp4">
+</video>
 
 # Hi, I am Aayush 👋
 🔭 I’m currently working on Full-Stack Web Development, AI Applications, and Supabase/Stitch UI Projects<br>
