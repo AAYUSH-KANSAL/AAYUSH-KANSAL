@@ -1,6 +1,4 @@
-<video width="100%" controls autoplay muted loop playsinline>
-  <source src="asset/github%20video.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/a0a77df0-e93c-4917-963b-0b98a93ab381
 
 # Hi, I am Aayush 👋
 🔭 I’m currently working on Full-Stack Web Development, AI Applications, and Supabase/Stitch UI Projects<br>
