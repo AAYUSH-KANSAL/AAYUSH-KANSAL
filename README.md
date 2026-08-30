@@ -28,7 +28,6 @@
 | ⚙️ **Backend & Systems** | APIs, authentication, caching, rate limiting, concurrency, distributed systems |
 | 📊 **Data Analytics & EDA** | Data processing, exploratory data analysis, visualization, and analytics |
 
-
 ## 🧠 Currently Learning
 
 `AI Engineering` · `System Design` · `FastAPI` · `Cloud` · `Scalable Backend Architecture` · `Data Structure`
@@ -37,20 +36,19 @@
 
 ## 🔥 Featured Projects
 
-### 🤖 AI Mock Interviewer
-Adaptive AI interview platform using **LLMs, semantic scoring, speech analysis, emotion recognition, and adaptive difficulty** to deliver personalized technical and behavioral interviews.
-
-**Tech:** Python · NLP · ML · Reinforcement Learning · Full Stack
-
 ### ⚡ Rate Limiter Playground
-Interactive backend playground for exploring **token-bucket rate limiting, concurrency, traffic patterns, latency, throughput, and async APIs**.
+A hands-on backend engineering playground built to visualize and test **token-bucket rate limiting** under controlled traffic. It lets you experiment with request rate, burst capacity, refill rate, concurrency, latency, throughput, and rejection behavior in real time.
 
-**Tech:** Python · FastAPI · AsyncIO · System Design
+The project is designed to make rate limiting and backend performance concepts easy to understand while exposing practical engineering trade-offs such as **burst handling, throttling, async request processing, and system saturation**.
+
+**Tech:** Python · FastAPI · AsyncIO · Token Bucket · System Design
 
 ### 🌐 PyRaft
-Distributed consensus engine where independent FastAPI instances coordinate through **Raft** to maintain an ordered, fault-tolerant distributed log.
+A distributed consensus engine where multiple independent **FastAPI nodes** coordinate using the **Raft consensus algorithm** instead of depending on a centralized database for agreement.
 
-**Tech:** Python · FastAPI · Distributed Systems · Raft
+PyRaft focuses on the core ideas behind distributed systems: **leader election, replicated logs, ordered state transitions, node coordination, fault tolerance, and consistent cluster state**. The project is built as a practical exploration of how reliable distributed services maintain agreement when individual nodes can fail.
+
+**Tech:** Python · FastAPI · Raft · Distributed Systems · Replicated Log
 
 ---
 
@@ -58,13 +56,10 @@ Distributed consensus engine where independent FastAPI instances coordinate thro
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### AI / Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -72,7 +67,6 @@ Distributed consensus engine where independent FastAPI instances coordinate thro
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Database / Cloud / Tools
@@ -88,12 +82,12 @@ Distributed consensus engine where independent FastAPI instances coordinate thro
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AAYUSH-KANSAL&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAYUSH-KANSAL&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AAYUSH-KANSAL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=AAYUSH-KANSAL&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAYUSH-KANSAL&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAYUSH-KANSAL&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
 </p>
 
 ---
