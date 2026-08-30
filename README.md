@@ -27,11 +27,11 @@
 | 🤖 **AI Engineering** | LLM applications, RAG, embeddings, semantic evaluation, intelligent workflows |
 | ⚙️ **Backend & Systems** | APIs, authentication, caching, rate limiting, concurrency, distributed systems |
 | 📊 **Data Analytics & EDA** | Data processing, exploratory data analysis, visualization, and analytics |
-| 🌐 **Full Stack** | React/Next.js applications, SaaS platforms, dashboards, product interfaces |
+
 
 ## 🧠 Currently Learning
 
-`AI Engineering` · `System Design` · `Next.js` · `FastAPI` · `Cloud` · `Scalable Backend Architecture`
+`AI Engineering` · `System Design` · `FastAPI` · `Cloud` · `Scalable Backend Architecture` · `Data Structure`
 
 ---
 
