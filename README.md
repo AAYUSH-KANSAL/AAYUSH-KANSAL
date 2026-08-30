@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Aayush 👋</h1>
 
 <p align="center">
-  <b>AI Engineer • Backend & Systems Developer • Full-Stack Product Builder</b>
+  <b>AI Engineer • Backend & Systems Developer</b>
 </p>
 
 <p align="center">
@@ -26,12 +26,12 @@
 | --- | --- |
 | 🤖 **AI Engineering** | LLM applications, RAG, embeddings, semantic evaluation, intelligent workflows |
 | ⚙️ **Backend & Systems** | APIs, authentication, caching, rate limiting, concurrency, distributed systems |
-| 📊 **Data & ML** | Data processing, EDA, feature engineering, machine learning, analytics |
+| 📊 **Data Analytics & EDA** | Data processing, exploratory data analysis, visualization, and analytics |
 | 🌐 **Full Stack** | React/Next.js applications, SaaS platforms, dashboards, product interfaces |
 
 ## 🧠 Currently Learning
 
-`AI Engineering` · `System Design` · `Distributed Systems` · `Next.js` · `Cloud` · `Scalable Backend Architecture`
+`AI Engineering` · `System Design` · `Next.js` · `FastAPI` · `Cloud` · `Scalable Backend Architecture`
 
 ---
 
